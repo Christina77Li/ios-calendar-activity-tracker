@@ -27,7 +27,7 @@ A menu shortcut that launches Start Activity or Stop Activity.
 
 - https://www.icloud.com/shortcuts/06517c58fb5d42ad93dc7fd83b45a1a6
 
-![Activity Menu](docs/images/menu.jpg)
+<img src="docs/images/menu.jpg" width="280" alt="Activity Menu" />
 
 ### Start Activity（開始）
 カテゴリを選び、タスク内容を入力して開始します。  
@@ -35,8 +35,8 @@ Select a category, enter task details, and start tracking.
 
 - https://www.icloud.com/shortcuts/d62f7f2dea9340a19244dee21b021a56
 
-![Start Activity-Select Category](docs/images/start-1.jpg)
-![Start Activity-Enter Details](docs/images/start-2.jpg)
+<img src="docs/images/start-1.jpg" width="280" alt="Start Activity - Select Category" />
+<img src="docs/images/start-2.jpg" width="280" alt="Start Activity - Enter Details" />
 
 ### Stop Activity（終了・保存）
 進行中の記録を終了し、カテゴリとタスク内容を Apple カレンダーに保存します。  
@@ -44,9 +44,9 @@ Stops the task and writes category + details into Apple Calendar.
 
 - https://www.icloud.com/shortcuts/21be602e8ce04fbcaae81bc9f4bd3216
 
-![Stop Activity-End Task](docs/images/stop-1.jpg)
-![Stop Activity-Record in Calendar](docs/images/stop-2.jpg)
-![Stop Activity-Calendar Result](docs/images/calendar-result.jpg)
+<img src="docs/images/stop-1.jpg" width="280" alt="Stop Activity - End Task" />
+<img src="docs/images/stop-2.jpg" width="280" alt="Stop Activity - Record in Calendar" />
+<img src="docs/images/calendar-result.jpg" width="280" alt="Stop Activity - Calendar Result" />
 
 ---
 
