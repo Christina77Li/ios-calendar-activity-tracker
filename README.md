@@ -19,8 +19,14 @@ A lightweight iOS Shortcuts set to track what you’re doing and log it into App
 
 ---
 
-## 2) Shortcuts & iCloud Links（ショートカットとリンク）
+## Changelog（更新履歴）
 
+- **2026-01-20**: Fix time parsing bug where `2:14` could be interpreted as `14:14`. Start time is now saved in **ISO 8601** format to avoid ambiguity. **iCloud links have been regenerated and updated below.**
+
+---
+
+## 2) Shortcuts & iCloud Links（ショートカットとリンク）
+> ✅ Latest iCloud links (updated on **2026-01-20**)
 ### Activity Menu（メニュー）
 Start/Stop を選んで呼び出します。  
 A menu shortcut that launches Start Activity or Stop Activity.
@@ -33,7 +39,7 @@ A menu shortcut that launches Start Activity or Stop Activity.
 カテゴリを選び、タスク内容を入力して開始します。  
 Select a category, enter task details, and start tracking.
 
-- https://www.icloud.com/shortcuts/d62f7f2dea9340a19244dee21b021a56
+- https://www.icloud.com/shortcuts/135d557a3f064ea581a9ba372391f1b2
 
 ![Start Activity-Select Category](docs/images/start-1.jpg)
 ![Start Activity-Enter Details](docs/images/start-2.jpg)
