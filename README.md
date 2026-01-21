@@ -21,12 +21,17 @@ A lightweight iOS Shortcuts set to track what you’re doing and log it into App
 
 ## Changelog（更新履歴）
 
-- **2026-01-20**: Fix time parsing bug where `2:14` could be interpreted as `14:14`. Start time is now saved in **ISO 8601** format to avoid ambiguity. **iCloud links have been regenerated and updated below.**
+- **2026-01-21**: Feat — Show elapsed minutes when stopping a task (in notification + calendar event).
+<img src="docs/images/show_duration.jpg" width="280" alt="Changelog" />
+
+- **2026-01-20**: Fix time parsing bug where `2:14` could be interpreted as `14:14`. Start time is now saved in **ISO 8601** format to avoid ambiguity. 
+
+**iCloud links have been regenerated and updated below.**
 
 ---
 
 ## 2) Shortcuts & iCloud Links（ショートカットとリンク）
-> ✅ Latest iCloud links (updated on **2026-01-20**)
+> ✅ Latest iCloud links (updated on **2026-01-21**)
 ### Activity Menu（メニュー）
 Start/Stop を選んで呼び出します。  
 A menu shortcut that launches Start Activity or Stop Activity.
@@ -48,7 +53,7 @@ Select a category, enter task details, and start tracking.
 進行中の記録を終了し、カテゴリとタスク内容を Apple カレンダーに保存します。  
 Stops the task and writes category + details into Apple Calendar.
 
-- https://www.icloud.com/shortcuts/21be602e8ce04fbcaae81bc9f4bd3216
+- https://www.icloud.com/shortcuts/1fd73f30dc8246ab92d07c80910da084
 
 <img src="docs/images/stop-1.jpg" width="320" alt="Stop Activity - End Task" />
 <img src="docs/images/stop-2.jpg" width="320" alt="Stop Activity - Record in Calendar" />
